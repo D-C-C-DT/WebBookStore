@@ -29,7 +29,7 @@ namespace WebBookStore.Models
             _context.Books.Update(book);
             await _context.SaveChangesAsync();
         }
-        public async Task DeleteAync(int id)
+        public async Task DeleteAsync(int id)
         {
             var book = await _context.Books.FindAsync(id);
             _context.Books.Remove(book);

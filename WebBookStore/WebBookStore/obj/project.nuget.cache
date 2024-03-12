@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xUDibynXLZ8n5uX7/+9PvDK+neRefpTw75Keg2mNNWPi2TyIRQvLIITPcBpBfh0pUcqB2RibI+hwC+YhsDAwAg==",
+  "dgSpecHash": "qL6JaCK5CuSoqvsVKDAu82JUgoRROsGoAKfBkqgskF15E34SD1gqX7MtMxDu7ee2niYbLzcSZKt6YXght1xyQw==",
   "success": true,
-  "projectFilePath": "D:\\hoc tap\\WebBookStore\\WebBookStore\\WebBookStore\\WebBookStore.csproj",
+  "projectFilePath": "D:\\hoc tap\\rac\\WebBookStore\\WebBookStore\\WebBookStore\\WebBookStore\\WebBookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

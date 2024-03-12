@@ -40,7 +40,7 @@ namespace WebBookStore.Controllers
         //show detail of a book
         public async Task <ActionResult> Detail(int id)
         {
-            var book= await _bookRepository.GetByIdAsync(id);
+            var book = await _bookRepository.GetByIdAsync(id);
             if (book == null)
             {
                 return NotFound();

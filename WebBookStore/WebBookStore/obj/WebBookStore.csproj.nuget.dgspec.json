@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\hoc tap\\WebBookStore\\WebBookStore\\WebBookStore\\WebBookStore.csproj": {}
+    "D:\\hoc tap\\rac\\WebBookStore\\WebBookStore\\WebBookStore\\WebBookStore\\WebBookStore.csproj": {}
   },
   "projects": {
-    "D:\\hoc tap\\WebBookStore\\WebBookStore\\WebBookStore\\WebBookStore.csproj": {
+    "D:\\hoc tap\\rac\\WebBookStore\\WebBookStore\\WebBookStore\\WebBookStore\\WebBookStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\hoc tap\\WebBookStore\\WebBookStore\\WebBookStore\\WebBookStore.csproj",
+        "projectUniqueName": "D:\\hoc tap\\rac\\WebBookStore\\WebBookStore\\WebBookStore\\WebBookStore\\WebBookStore.csproj",
         "projectName": "WebBookStore",
-        "projectPath": "D:\\hoc tap\\WebBookStore\\WebBookStore\\WebBookStore\\WebBookStore.csproj",
+        "projectPath": "D:\\hoc tap\\rac\\WebBookStore\\WebBookStore\\WebBookStore\\WebBookStore\\WebBookStore.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\hoc tap\\WebBookStore\\WebBookStore\\WebBookStore\\obj\\",
+        "outputPath": "D:\\hoc tap\\rac\\WebBookStore\\WebBookStore\\WebBookStore\\WebBookStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
